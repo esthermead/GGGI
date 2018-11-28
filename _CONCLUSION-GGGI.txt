@@ -1,0 +1,14 @@
+_CONCLUSION-MLPlinear6-GGGI
+
+EDIT ALL TEXT BELOW:
+
+-when use "GGGI_standardscaler.txt":
+	-for GGGI of 0.5802, 0.628 TRUE= 0.927595366, -0.767126588
+	for:		got:
+	0.001, 500	-0.007954, -0.008810
+	1.0, 150000	0.281215, -0.015628
+	1.0, 300000	0.281215, -0.015628
+-works (no errors) but not good at predicting.
+
+
+see online .ipynb
